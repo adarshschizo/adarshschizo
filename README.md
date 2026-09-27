@@ -1,4 +1,4 @@
-# Hi, I'm Adarsh Singh 👋
+# Hi, I'm Adarsh Raj 👋
 
 I'm a Computer Science student interested in **backend development, full-stack engineering, DevOps, cybersecurity, and AI**. I enjoy building practical projects and learning how real-world software systems work.
 
